@@ -21,6 +21,20 @@ var a=10
 var b=20
 var c=a+b
 console.log(c);
+console.log("1"+"1");
+var s1="1001"
+console.log(typeof s1);
+var s2=+s1
+console.log(s2)
+var d=+"200"
+console.log(d);
+
+var e =+"jenny"
+console.log(e);
+console.log (typeof d)
+var d = Number ("10")
+console.log ();
+
 
 
 
